@@ -2,7 +2,6 @@ numpy
 flask
 tensorflow
 matplotlib
-base64
 Pillow
 keras
 gunicorn
